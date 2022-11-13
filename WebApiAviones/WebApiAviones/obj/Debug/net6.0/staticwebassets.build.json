@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "giXyTfTJRA5ieIOspStgnclOhrulaQVgIRTB9gg33Qk=",
+  "Source": "WebApiAviones",
+  "BasePath": "_content/WebApiAviones",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiAviones\\wwwroot",
+      "Source": "WebApiAviones",
+      "ContentRoot": "C:\\Users\\jrart\\OneDrive\\Documents\\Desarrollo web back-end\\IN PROGRESS\\WebApiAviones\\WebApiAviones\\wwwroot\\",
+      "BasePath": "_content/WebApiAviones",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jrart\\OneDrive\\Documents\\Desarrollo web back-end\\IN PROGRESS\\WebApiAviones\\WebApiAviones\\wwwroot\\Grupo036.txt",
+      "SourceId": "WebApiAviones",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jrart\\OneDrive\\Documents\\Desarrollo web back-end\\IN PROGRESS\\WebApiAviones\\WebApiAviones\\wwwroot\\",
+      "BasePath": "_content/WebApiAviones",
+      "RelativePath": "Grupo036.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Grupo036.txt"
+    }
+  ]
+}
